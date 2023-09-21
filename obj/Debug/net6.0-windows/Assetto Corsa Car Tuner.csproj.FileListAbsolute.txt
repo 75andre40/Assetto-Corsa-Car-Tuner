@@ -1,0 +1,16 @@
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto_Corsa_Car_Tuner.frmMain.resources
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.csproj.GenerateResource.cache
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\bin\Debug\net6.0-windows\Assetto Corsa Car Tuner.exe
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\bin\Debug\net6.0-windows\Assetto Corsa Car Tuner.deps.json
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\bin\Debug\net6.0-windows\Assetto Corsa Car Tuner.runtimeconfig.json
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\bin\Debug\net6.0-windows\Assetto Corsa Car Tuner.dll
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\bin\Debug\net6.0-windows\Assetto Corsa Car Tuner.pdb
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.dll
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\refint\Assetto Corsa Car Tuner.dll
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.pdb
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\Assetto Corsa Car Tuner.genruntimeconfig.cache
+C:\Users\Andre\OneDrive\GitHub\Assetto Corsa Car Tuner\obj\Debug\net6.0-windows\ref\Assetto Corsa Car Tuner.dll
