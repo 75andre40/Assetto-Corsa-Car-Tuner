@@ -35,11 +35,12 @@ namespace Assetto_Corsa_Car_Tuner
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void CheckForUpdates()
         {
-            ChangeACFolderPath();
-            lblStatus.Text = clsUtils.ACFolder;
+
         }
+        //ChangeACFolderPath();
+        //lblStatus.Text = clsUtils.ACFolder;
     }
 }
 

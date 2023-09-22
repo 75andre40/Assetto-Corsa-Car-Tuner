@@ -29,22 +29,11 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmMain));
-            button1 = new Button();
             lblStatus = new Label();
             panel1 = new Panel();
             lblACFolder = new Label();
             panel1.SuspendLayout();
             SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.Location = new Point(355, 130);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 23);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
             // 
             // lblStatus
             // 
@@ -88,7 +77,6 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(784, 461);
             Controls.Add(panel1);
-            Controls.Add(button1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MaximizeBox = false;
@@ -101,7 +89,6 @@
         }
 
         #endregion
-        private Button button1;
         private Label lblStatus;
         private Panel panel1;
         private Label lblACFolder;
