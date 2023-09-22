@@ -338,26 +338,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andre\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages": {},
+    "C:\\Users\\aandr\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
+      "projectUniqueName": "C:\\Users\\aandr\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
       "projectName": "Assetto Corsa Car Tuner",
-      "projectPath": "C:\\Users\\Andre\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
-      "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\obj\\",
+      "projectPath": "C:\\Users\\aandr\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
+      "packagesPath": "C:\\Users\\aandr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aandr\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Users\\aandr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -365,10 +362,8 @@
         "net6.0-windows"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Users\\Public\\Documents\\Infragistics\\NuGet\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

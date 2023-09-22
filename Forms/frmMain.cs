@@ -1,15 +1,5 @@
 ﻿using lib.Classes;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.IO;
-using System.Linq;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+using System.Xml;
 
 namespace Assetto_Corsa_Car_Tuner
 {
@@ -25,19 +15,10 @@ namespace Assetto_Corsa_Car_Tuner
 
         }
 
-        private void ChangeACFolderPath()
-        {
-            FolderBrowserDialog ofdACFolderPath = new FolderBrowserDialog();
-            ofdACFolderPath.SelectedPath = @"C:\AssettoCorsa";
-            ofdACFolderPath.ShowDialog();
-
-            if (File.Exists(ofdACFolderPath.SelectedPath + "\\acs.exe")) { clsUtils.ACFolder = ofdACFolderPath.SelectedPath; }
-
-        }
-
-        private void CheckForUpdates()
+        private void button1_Click(object sender, EventArgs e)
         {
 
+            clsUtils.CheckUpdates();
         }
         //ChangeACFolderPath();
         //lblStatus.Text = clsUtils.ACFolder;

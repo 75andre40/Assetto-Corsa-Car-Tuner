@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "l6P37iQWxEbaRYmrn6WFCCODtNUAwPy/UNJCBR/Z/Nx5QuXmhvqowaIyf5RtvCZbssVb76YTDcC4Yd9eLaYyAg==",
+  "dgSpecHash": "KhD8ZfxD7qhD3liTWdteN7Gk1X150XdKn1shB3UQAyolfG7UGEzWY0SnLfHDWRLp8KkvzEdPqmaHmF7MMjWMow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
+  "projectFilePath": "C:\\Users\\aandr\\OneDrive\\GitHub\\Assetto Corsa Car Tuner\\Assetto Corsa Car Tuner.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Andre\\.nuget\\packages\\autoupdater.net.official\\1.8.4\\autoupdater.net.official.1.8.4.nupkg.sha512",
-    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
+    "C:\\Users\\aandr\\.nuget\\packages\\autoupdater.net.official\\1.8.4\\autoupdater.net.official.1.8.4.nupkg.sha512",
+    "C:\\Users\\aandr\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512"
   ],
   "logs": []
 }

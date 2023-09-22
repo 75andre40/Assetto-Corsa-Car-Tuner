@@ -32,6 +32,7 @@
             lblStatus = new Label();
             panel1 = new Panel();
             lblACFolder = new Label();
+            button1 = new Button();
             panel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -69,6 +70,16 @@
             lblACFolder.Text = "Assetto Corsa Path";
             lblACFolder.TextAlign = ContentAlignment.MiddleRight;
             // 
+            // button1
+            // 
+            button1.Location = new Point(196, 143);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 3;
+            button1.Text = "button1";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
             // frmMain
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -76,6 +87,7 @@
             BackColor = Color.White;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(784, 461);
+            Controls.Add(button1);
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
@@ -92,5 +104,6 @@
         private Label lblStatus;
         private Panel panel1;
         private Label lblACFolder;
+        private Button button1;
     }
 }
