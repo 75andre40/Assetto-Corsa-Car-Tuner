@@ -29,7 +29,8 @@ namespace lib.Classes
 
         public static void CheckUpdates()
         {
-            AutoUpdater.Start("https://raw.githubusercontent.com/75andre40/Assetto-Corsa-Car-Tuner/main/VersionChecker.xml");
+            AutoUpdater.ReportErrors = true;
+            AutoUpdater.Start("https://raw.githubusercontent.com/75andre40/Assetto-Corsa-Car-Tuner/main/VersionChecker.xml",System.Reflection.Assembly.GetExecutingAssembly());
         }
 
     }
