@@ -18,4 +18,8 @@
     <Content Include="Resources\Images\ACCT.ico" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Autoupdater.NET.Official" Version="1.8.4" />
+  </ItemGroup>
+
 </Project>
